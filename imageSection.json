@@ -1,0 +1,15 @@
+{
+  "images": [
+    "iconWithBackground",
+    "logoWithoutBackground",
+    "logoWithBackground",
+    "iconWithoutBackground"
+  ],
+  "authorName": "andydomo",
+  "validImages": [
+    "logoWithoutBackground",
+    "logoWithBackground",
+    "iconWithBackground",
+    "iconWithoutBackground"
+  ]
+}
